@@ -6,7 +6,7 @@ response = requests.get(url)
 # ensure we got a valid response
 if response.status_code == 200:
     # open in binary mode
-    with open('slinky_dog.csv', 'wb') as file:
+    with open('slinky_dog_dash.csv', 'wb') as file:
         # write to file
         file.write(response.content)
 else:
