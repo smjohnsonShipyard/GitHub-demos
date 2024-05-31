@@ -1,4 +1,4 @@
-id,customer_id,store_id,subtotal,tax_paid,order_total,ordered_at
+id,customer,store_id,subtotal,tax_paid,order_total,ordered_at
 1,39,5,747.24,74.72,821.96,2023-11-30
 2,29,3,606.99,60.7,667.69,2024-01-04
 3,15,3,484.75,48.48,533.23,2022-04-23
