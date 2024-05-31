@@ -1,0 +1,51 @@
+id,name,opened_at,tax_rate
+1,Ship Supplies Depot,2013-01-01,0.1
+2,Nautical Necessities,2014-01-01,0.1
+3,Marine Mart,2015-01-01,0.1
+4,Sailor's Stop,2016-01-01,0.1
+5,Fisherman's Friend,2016-12-31,0.1
+6,Seafarer Supplies,2017-12-31,0.1
+7,Mariner's Market,2018-12-31,0.1
+8,Buccaneer's Bounty,2019-12-31,0.1
+9,Captain's Corner,2020-12-30,0.1
+10,Deckhand Depot,2021-12-30,0.1
+11,Helmsman's Haven,2022-12-30,0.1
+12,Boatswain's Bargains,2023-12-30,0.1
+13,Matey's Market,2024-12-29,0.1
+14,Sailor's Store,2025-12-29,0.1
+15,First Mate's Finds,2026-12-29,0.1
+16,Lookout Landing,2027-12-29,0.1
+17,Skipper's Shop,2028-12-28,0.1
+18,Quartermaster's Quarters,2029-12-28,0.1
+19,Navigator's Needs,2030-12-28,0.1
+20,Bosun's Best,2031-12-28,0.1
+21,Sailor's Supply,2032-12-27,0.1
+22,Pirate's Paradise,2033-12-27,0.1
+23,Captain's Cache,2034-12-27,0.1
+24,Seaman's Shop,2035-12-27,0.1
+25,Swabby's Supplies,2036-12-26,0.1
+26,Shipwright's Store,2037-12-26,0.1
+27,Gunner's Goods,2038-12-26,0.1
+28,Rigger's Retail,2039-12-26,0.1
+29,Cabin Boy's Corner,2040-12-25,0.1
+30,Helmsman's Hub,2041-12-25,0.1
+31,Fisherman's Find,2042-12-25,0.1
+32,Mariner's Market,2043-12-25,0.1
+33,Deckhand Depot,2044-12-24,0.1
+34,Navigator's Nook,2045-12-24,0.1
+35,Boatswain's Buy,2046-12-24,0.1
+36,Matey's Market,2047-12-24,0.1
+37,Lookout Lane,2048-12-23,0.1
+38,First Mate's Finds,2049-12-23,0.1
+39,Quartermaster's Quarters,2050-12-23,0.1
+40,Captain's Cache,2051-12-23,0.1
+41,Sailor's Stop,2052-12-22,0.1
+42,Pirate's Place,2053-12-22,0.1
+43,Navigator's Nook,2054-12-22,0.1
+44,Seaman's Shop,2055-12-22,0.1
+45,Shipwright's Supplies,2056-12-21,0.1
+46,Admiral's Attic,2057-12-21,0.1
+47,Harbor Haven,2058-12-21,0.1
+48,Oceanic Outpost,2059-12-21,0.1
+49,Lighthouse Lounge,2060-12-20,0.1
+50,Buoy Bazaar,2061-12-20,0.1

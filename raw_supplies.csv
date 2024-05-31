@@ -1,0 +1,51 @@
+id,name,cost,perishable,sku
+1,Rope,18.3,Yes,1001
+2,Ship Paint,193.34,No,1002
+3,Fish Bait,57.53,No,1003
+4,Life Vest,268.02,Yes,1004
+5,Nautical Map,200.91,No,1005
+6,Seafood Rations,308.51,No,1006
+7,Ship Fuel,403.77,Yes,1007
+8,Medical Kit,153.34,No,1008
+9,Waterproof Jacket,481.24,No,1009
+10,Diving Suit,270.14,Yes,1000
+11,Rope,311.05,No,1001
+12,Ship Paint,341.93,No,1002
+13,Fish Bait,335.03,Yes,1003
+14,Life Vest,257.93,No,1004
+15,Nautical Map,217.24,No,1005
+16,Seafood Rations,31.62,Yes,1006
+17,Ship Fuel,15.93,No,1007
+18,Medical Kit,182.19,No,1008
+19,Waterproof Jacket,170.16,Yes,1009
+20,Diving Suit,196.91,No,1000
+21,Rope,73.49,No,1001
+22,Ship Paint,370.39,Yes,1002
+23,Fish Bait,429.2,No,1003
+24,Life Vest,469.66,No,1004
+25,Nautical Map,248.72,Yes,1005
+26,Seafood Rations,351.93,No,1006
+27,Ship Fuel,428.5,No,1007
+28,Medical Kit,212.05,Yes,1008
+29,Waterproof Jacket,158.16,No,1009
+30,Diving Suit,468.68,No,1000
+31,Rope,260.26,Yes,1001
+32,Ship Paint,251.14,No,1002
+33,Fish Bait,93.32,No,1003
+34,Life Vest,58.54,Yes,1004
+35,Nautical Map,421.84,No,1005
+36,Seafood Rations,309.0,No,1006
+37,Ship Fuel,166.28,Yes,1007
+38,Medical Kit,99.91,No,1008
+39,Waterproof Jacket,279.97,No,1009
+40,Diving Suit,294.04,Yes,1000
+41,Rope,107.46,No,1001
+42,Ship Paint,426.45,No,1002
+43,Fish Bait,46.71,Yes,1003
+44,Life Vest,181.27,No,1004
+45,Nautical Map,341.79,No,1005
+46,Seafood Rations,140.69,Yes,1006
+47,Ship Fuel,414.7,No,1007
+48,Medical Kit,371.23,No,1008
+49,Waterproof Jacket,395.57,Yes,1009
+50,Diving Suit,63.96,No,1000
