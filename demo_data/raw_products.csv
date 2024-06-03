@@ -1,51 +1,51 @@
 sku,name,type,price,description
-1001,Anchor,Equipment,285.31,Heavy-duty ship anchor
-1002,Sail,Equipment,338.99,High-quality sail
-1003,Compass,Navigation,463.89,Precision marine compass
-1004,Fishing Rod,Equipment,313.39,Durable fishing rod
-1005,Life Jacket,Safety,414.16,Standard life jacket
-1006,Telescope,Navigation,347.52,High-powered telescope
-1007,Boat Engine,Equipment,280.45,Reliable boat engine
-1008,Radar,Navigation,128.5,Advanced radar system
-1009,Radio,Communication,218.74,Marine radio
-1000,Sextant,Navigation,484.19,Accurate nautical sextant
-1001,Anchor,Equipment,332.31,Heavy-duty ship anchor
-1002,Sail,Equipment,286.55,High-quality sail
-1003,Compass,Navigation,467.15,Precision marine compass
-1004,Fishing Rod,Equipment,297.39,Durable fishing rod
-1005,Life Jacket,Safety,267.78,Standard life jacket
-1006,Telescope,Navigation,382.06,High-powered telescope
-1007,Boat Engine,Equipment,359.21,Reliable boat engine
-1008,Radar,Navigation,104.65,Advanced radar system
-1009,Radio,Communication,240.94,Marine radio
-1000,Sextant,Navigation,241.53,Accurate nautical sextant
-1001,Anchor,Equipment,195.33,Heavy-duty ship anchor
-1002,Sail,Equipment,263.47,High-quality sail
-1003,Compass,Navigation,212.42,Precision marine compass
-1004,Fishing Rod,Equipment,107.68,Durable fishing rod
-1005,Life Jacket,Safety,212.06,Standard life jacket
-1006,Telescope,Navigation,45.42,High-powered telescope
-1007,Boat Engine,Equipment,292.14,Reliable boat engine
-1008,Radar,Navigation,428.29,Advanced radar system
-1009,Radio,Communication,365.39,Marine radio
-1000,Sextant,Navigation,186.59,Accurate nautical sextant
-1001,Anchor,Equipment,52.66,Heavy-duty ship anchor
-1002,Sail,Equipment,109.05,High-quality sail
-1003,Compass,Navigation,277.29,Precision marine compass
-1004,Fishing Rod,Equipment,111.46,Durable fishing rod
-1005,Life Jacket,Safety,276.55,Standard life jacket
-1006,Telescope,Navigation,123.48,High-powered telescope
-1007,Boat Engine,Equipment,425.97,Reliable boat engine
-1008,Radar,Navigation,204.66,Advanced radar system
-1009,Radio,Communication,130.32,Marine radio
-1000,Sextant,Navigation,408.04,Accurate nautical sextant
-1001,Anchor,Equipment,177.99,Heavy-duty ship anchor
-1002,Sail,Equipment,64.63,High-quality sail
-1003,Compass,Navigation,289.5,Precision marine compass
-1004,Fishing Rod,Equipment,294.97,Durable fishing rod
-1005,Life Jacket,Safety,360.2,Standard life jacket
-1006,Telescope,Navigation,127.71,High-powered telescope
-1007,Boat Engine,Equipment,227.45,Reliable boat engine
-1008,Radar,Navigation,148.36,Advanced radar system
-1009,Radio,Communication,49.67,Marine radio
-1000,Sextant,Navigation,439.54,Accurate nautical sextant
+PROD001,Lifebuoy,Materials,75.87,Nautical themed product: Every save something much.
+PROD002,Sail Rope,Equipment,92.26,Nautical themed product: Must this open sure.
+PROD003,Life Raft,Materials,79.69,Nautical themed product: Kitchen usually quickly center.
+PROD004,Marine Paint,Safety,21.66,Nautical themed product: Religious often their ready rock here image effort.
+PROD005,Boat Trailer,Supplies,11.3,Nautical themed product: Civil leave official far meeting.
+PROD006,Fishing Rod,Supplies,75.76,Nautical themed product: Just statement career spring question.
+PROD007,Wind Sock,Supplies,24.58,Nautical themed product: Team pressure him institution free.
+PROD008,Boat Cover,Equipment,71.71,Nautical themed product: Again lawyer anyone ball.
+PROD009,Sail Cloth,Safety,32.3,Nautical themed product: Hold simply short.
+PROD010,Ship Wheel,Safety,41.48,Nautical themed product: Draw at power success energy pattern.
+PROD011,Mooring Line,Equipment,86.47,Nautical themed product: Either mouth federal box question.
+PROD012,Emergency Beacon,Safety,45.03,Nautical themed product: Hit science according everyone.
+PROD013,Boat Hook,Equipment,73.66,Nautical themed product: Without else recent item Congress.
+PROD014,Fishing Net,Safety,39.71,Nautical themed product: Old say yard defense treat.
+PROD015,Boat Motor,Materials,68.17,Nautical themed product: Leg whose its amount miss.
+PROD016,Navigation Chart,Equipment,20.64,Nautical themed product: Claim food at top low nor.
+PROD017,Boat Fender,Materials,40.64,Nautical themed product: There night live decade Democrat.
+PROD018,Marine Battery,Materials,66.61,Nautical themed product: Teacher yard certain view gun.
+PROD019,Marine Horn,Equipment,28.16,Nautical themed product: President close college.
+PROD020,Harpoon,Equipment,89.89,Nautical themed product: Crime answer fill.
+PROD021,Bilge Pump,Supplies,86.23,Nautical themed product: New yeah drive per old.
+PROD022,Ship Log,Equipment,71.35,Nautical themed product: Middle conference professor seem.
+PROD023,Marine Compass,Materials,16.21,Nautical themed product: Head sit community story staff.
+PROD024,Life Jacket,Materials,92.09,Nautical themed product: Imagine wall enter let get top beautiful coach.
+PROD025,Marine Radio,Materials,34.65,Nautical themed product: Attention ago despite ahead goal.
+PROD026,Sail Rigging,Safety,98.08,Nautical themed product: Summer approach computer each.
+PROD027,Ship Bell,Safety,25.71,Nautical themed product: Better above science same.
+PROD028,Inflatable Dinghy,Safety,58.9,Nautical themed product: Seat popular floor.
+PROD029,Dock Line,Supplies,40.58,Nautical themed product: Special common able give particularly only including.
+PROD030,Dock Bumpers,Equipment,22.42,Nautical themed product: About social return audience.
+PROD031,Boat Cover,Safety,46.86,Nautical themed product: Gas walk less friend.
+PROD032,Compass,Equipment,62.65,Nautical themed product: Easy operation such business experience subject trade.
+PROD033,Porthole,Equipment,81.26,Nautical themed product: Animal health crime hair front.
+PROD034,Deck Brush,Materials,46.38,Nautical themed product: Ok evening part.
+PROD035,Boat Anchor,Safety,68.74,Nautical themed product: Subject appear must ball hospital say.
+PROD036,Anchor,Supplies,70.43,Nautical themed product: Air range politics trouble.
+PROD037,Navigation Light,Materials,16.13,Nautical themed product: Result what focus still stand source.
+PROD038,Deck Plate,Safety,19.12,Nautical themed product: After player last I join school good nor.
+PROD039,Telescope,Materials,25.94,Nautical themed product: Decision wait wrong light election design along.
+PROD040,Marine GPS,Materials,67.24,Nautical themed product: Perform American address seat theory beat rise.
+PROD041,Cabin Light,Safety,36.59,Nautical themed product: Bill interesting sell image rich.
+PROD042,Chart Plotter,Equipment,49.44,Nautical themed product: Play agency as support collection.
+PROD043,VHF Radio,Supplies,50.24,Nautical themed product: Network same always town religious since serious.
+PROD044,Nautical Rope,Supplies,84.6,Nautical themed product: Sister cause similar already.
+PROD045,Fish Finder,Materials,29.57,Nautical themed product: Available instead point remain town character.
+PROD046,Boat Oars,Safety,17.88,Nautical themed product: Human worker ask pattern population.
+PROD047,Outboard Motor,Equipment,69.94,Nautical themed product: Contain field forward last capital or.
+PROD048,Rope Ladder,Supplies,50.85,Nautical themed product: Treat president themselves loss across pick race personal.
+PROD049,Deck Hardware,Safety,97.75,Nautical themed product: Father significant response front.
+PROD050,Diving Suit,Supplies,71.9,Nautical themed product: Rest them sign magazine when really road.
