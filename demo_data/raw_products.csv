@@ -4,29 +4,29 @@ PROD002,Sail Rope,Equipment,92.26,Strong and durable rope used to raise and cont
 PROD003,Life Raft,Materials,79.69,An inflatable raft used for emergency evacuation from a sinking ship.
 PROD004,Marine Paint,Safety,21.66,Specialized paint used to protect the hull of a ship from harsh marine conditions.
 PROD005,Boat Trailer,Supplies,11.3,A trailer used for transporting boats over land.
-PROD006,Fishing Rod,Supplies,75.76,"A long, flexible rod used to catch fish."
+PROD006,Fishing Rod,Supplies,75.76,"A long flexible rod used to catch fish."
 PROD007,Wind Sock,Supplies,24.58,A conical textile tube designed to indicate wind direction and relative wind speed.
 PROD008,Boat Cover,Equipment,71.71,A cover used to protect a boat from the elements when not in use.
 PROD009,Sail Cloth,Safety,32.3,Sail Cloth - A high-quality nautical product essential for marine activities.
 PROD010,Ship Wheel,Safety,41.48,A device used to steer a ship.
 PROD011,Mooring Line,Equipment,86.47,A rope used to tie a boat to a mooring post or buoy.
 PROD012,Emergency Beacon,Safety,45.03,A device that transmits a distress signal in case of an emergency.
-PROD013,Boat Hook,Equipment,73.66,"A pole with a hook on the end, used to catch a line or to reach into the water."
+PROD013,Boat Hook,Equipment,73.66,"A pole with a hook on the end used to catch a line or to reach into the water."
 PROD014,Fishing Net,Safety,39.71,A net used for catching fish.
 PROD015,Boat Motor,Materials,68.17,An engine used to propel a boat.
 PROD016,Navigation Chart,Equipment,20.64,A map used by sailors to navigate through seas and oceans.
 PROD017,Boat Fender,Materials,40.64,A bumper used to prevent boats from being damaged when docking or coming into contact with other boats.
-PROD018,Marine Battery,Materials,66.61,"A battery designed for use in marine environments, typically to power a boat's electrical systems."
+PROD018,Marine Battery,Materials,66.61,"A battery designed for use in marine environments typically to power a boat's electrical systems."
 PROD019,Marine Horn,Equipment,28.16,A horn used on boats and ships to signal or alert other vessels.
 PROD020,Harpoon,Equipment,89.89,A long spear-like instrument used in fishing to catch large fish or marine mammals.
 PROD021,Bilge Pump,Supplies,86.23,Bilge Pump - A high-quality nautical product essential for marine activities.
-PROD022,Ship Log,Equipment,71.35,"A record of important events in the management, operation, and navigation of a ship."
+PROD022,Ship Log,Equipment,71.35,"A record of important events in the management operation and navigation of a ship."
 PROD023,Marine Compass,Materials,16.21,A navigation instrument used to determine direction relative to the Earth's magnetic poles.
 PROD024,Life Jacket,Materials,92.09,Life Jacket - A high-quality nautical product essential for marine activities.
 PROD025,Marine Radio,Materials,34.65,A communication device used for maritime communication.
-PROD026,Sail Rigging,Safety,98.08,"The system of ropes, cables, or chains used to support a ship's masts and control the sails."
+PROD026,Sail Rigging,Safety,98.08,"The system of ropes cables or chains used to support a ship's masts and control the sails."
 PROD027,Ship Bell,Safety,25.71,A bell on a ship used for signaling.
-PROD028,Inflatable Dinghy,Safety,58.9,"A small, inflatable boat used as a tender or for recreation."
+PROD028,Inflatable Dinghy,Safety,58.9,"A small inflatable boat used as a tender or for recreation."
 PROD029,Dock Line,Supplies,40.58,Dock Line - A high-quality nautical product essential for marine activities.
 PROD030,Dock Bumpers,Equipment,22.42,Protective devices attached to a dock to prevent boats from being damaged when docking.
 PROD031,Boat Cover,Safety,46.86,A cover used to protect a boat from the elements when not in use.
@@ -42,7 +42,7 @@ PROD040,Marine GPS,Materials,67.24,A GPS system designed for use in marine envir
 PROD041,Cabin Light,Safety,36.59,Lighting used inside the cabins of a boat or ship.
 PROD042,Chart Plotter,Equipment,49.44,A device used to plot and track a boat's course using digital nautical charts.
 PROD043,VHF Radio,Supplies,50.24,Very High Frequency radio used for communication between vessels and shore stations.
-PROD044,Nautical Rope,Supplies,84.6,"Rope designed for use in marine environments, often made of materials that resist rot and wear."
+PROD044,Nautical Rope,Supplies,84.6,"Rope designed for use in marine environments often made of materials that resist rot and wear."
 PROD045,Fish Finder,Materials,29.57,An electronic device that uses sonar to detect fish underwater.
 PROD046,Boat Oars,Safety,17.88,Long poles with flat ends used for rowing a boat.
 PROD047,Outboard Motor,Equipment,69.94,A self-contained engine mounted on the outside of a boat's hull to provide propulsion.
